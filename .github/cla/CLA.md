@@ -1,12 +1,12 @@
 # Contributor License Agreement (CLA)
 
 **Summary:**
-To contribute to ORG_NAME/REPO_NAME, you must agree to this Contributor License Agreement (CLA). This ensures your contributions are original, permitted, and can be used under the project license. Please read and sign below.
+To contribute to resilience-tech/insight-track, you must agree to this Contributor License Agreement (CLA). This ensures your contributions are original, permitted, and can be used under the project license (MIT License). The CLA does not override the MIT License; it ensures all contributions are properly licensed and original. Please read and sign below.
 
 ---
 
 ## 1. License Grant to Project
-By signing this CLA, you grant ORG_NAME and its maintainers a perpetual, worldwide, royalty-free, irrevocable license to use, reproduce, modify, display, distribute, and sublicense your contributions to REPO_NAME.
+By signing this CLA, you grant resilience-tech and its maintainers a perpetual, worldwide, royalty-free, irrevocable license to use, reproduce, modify, display, distribute, and sublicense your contributions to insight-track under the terms of the MIT License.
 
 ## 2. Certification of Originality/Permission
 You certify that:
@@ -17,12 +17,9 @@ You certify that:
 ## 3. No Warranty
 You provide your contributions "as-is" without warranties or conditions of any kind.
 
-## 4. Governing Law
-This agreement is governed by the laws of [INSERT JURISDICTION].
-
-## 5. How to Revoke
-To revoke this agreement for future contributions, contact CONTACT_EMAIL. Revocation does not affect prior contributions.
+## 4. How to Revoke
+To revoke this agreement for future contributions, contact opensource@resilience-tech.com. Revocation does not affect prior contributions.
 
 ---
 
-*For questions, contact CONTACT_EMAIL.*
+*For questions, contact opensource@resiliencetech.org
